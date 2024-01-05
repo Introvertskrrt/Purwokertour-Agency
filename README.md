@@ -18,10 +18,7 @@ so you have to use an external database :(**
 ----
 
 ## Result
-1. www.purwokertour.my.id
-
-**Laravel doesn't support replit's database,
-so you have to use an external database :(**
+www.purwokertour.my.id
 
 ----
 
